@@ -2,7 +2,7 @@
  This Project focuses on COVID-19 Cases, Deaths, and Vaccinations all around the world. Also, This Project has Visualization using Tableau. The interacting Dashboard helps to understand data.
 
 
-## Data set
+## DATASET
  Excel Sheet 1 - CovidDeaths.xlsx
  
  Excel Sheet 2 - CovidVaccinations.xlsx
